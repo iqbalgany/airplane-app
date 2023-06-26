@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "C:/Flutter_BWA/airplane/linux",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
